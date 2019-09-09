@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">我的第一个应用</string>
+    <string name="welcome_msg">我喜欢安卓开发</string>
+    <string name="new_text_ex_3">你好Android</string>
+    <string name="poemCH">
+        \n剪塘月色
+        \n剪一段时光缓缓流淌，
+        \n弹一首小荷淡淡的香，
+        \n美丽的琴音就落在我身旁。
+    </string>
+    <string name="poemEN">
+        \ncut pond moon color
+        \ncut a time slow slow flow，
+        \nplay a xiaohe shollow fragrance，
+        \nbeautiful sound lands besides me.
+    </string>
+</resources>
